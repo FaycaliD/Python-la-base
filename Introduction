@@ -1,0 +1,18 @@
+Python est simple, lisible et facile à comprendre.
+Il faudra installer le support qui permettra de programmer en Python et de l'exécuter. L'installation prendra environ 10 minutes.
+
+Rendez-vous sur le site "Anaconda.com", cliquez sur "Free Download", puis laissez-vous guider.
+Si vous ne voulez pas créer de compte, voici le lien ci-dessous :
+https://www.anaconda.com/download-success
+
+Une fois Anaconda Navigator lancé, sélectionnez "Jupyter Notebook".
+
+🔢 Premier test : un simple calcul
+Dès le lancement du logiciel, vous pouvez essayer ce calcul simple :
+
+Écrivez : 1 + 1
+Puis cliquez sur "Run" ou sur le petit triangle ▶️.
+1 + 1  
+2  
+
+➕➖✖️➗ Opérations disponibles en Python: + - * / 
